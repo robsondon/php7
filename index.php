@@ -1,1 +1,1 @@
-<?PHP echo "<strong>Hello World!</strong>" ?>
+<?PHP echo "<strong>Olá Mundo</strong>" ?>
