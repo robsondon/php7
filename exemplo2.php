@@ -1,4 +1,4 @@
 <?PHP
-$data = new DateTime('10/10/2010');
-echo $data->format('d-m-Y');
+$data = new DateTime('now', new DateTimeZone("America/Sao_Paulo"));
+echo $data->format('d-m-Y H:i:s');
 ?>
