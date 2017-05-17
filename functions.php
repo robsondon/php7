@@ -10,4 +10,5 @@ function nome2(){
 }
 nome();
 nome2();
+
 ?>
